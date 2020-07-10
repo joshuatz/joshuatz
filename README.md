@@ -1,4 +1,4 @@
-<img src="./contrib_graph.gif" alt="Animated contrib graph showing 'Hello!' text" style="margin: auto; display:block; max-width: 600px; width: 98%; height: auto;" />
+<img src="https://raw.githubusercontent.com/joshuatz/joshuatz/master/contrib_graph.gif" alt="Animated contrib graph showing 'Hello!' text" style="margin: auto; display:block; max-width: 600px; width: 98%; height: auto;" />
 
 ## About Me
 My name is Joshua Tzucker (*he*, *him*), and I am a self-taught full-stack developer, with a variety of interests and experiences; I enjoy learning about anything and everything!
@@ -16,7 +16,7 @@ Place | - | Link
 --- | --- | ---
 My Website | 🔗 | [joshuatz.com](https://joshuatz.com/)
 LinkedIn | 💼 | [linkedin.com/in/joshuatzucker](https://www.linkedin.com/in/joshuatzucker/)
-Twitter | <img src="./icons/twitter.svg" /> | [@1joshuatz](https://twitter.com/1joshuatz)
+Twitter | <img src="https://raw.githubusercontent.com/joshuatz/joshuatz/master/icons/twitter.svg" /> | [@1joshuatz](https://twitter.com/1joshuatz)
 Dev | 👨‍💻 | [dev.to/joshuatz](https://dev.to/joshuatz)
 
 <!--
