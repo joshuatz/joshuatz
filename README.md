@@ -14,6 +14,7 @@ You will often find me working on, or writing about:
 Place | &nbsp; | Link
 --- | --- | ---
 My Website | 🔗 | [joshuatz.com](https://joshuatz.com/)
+My Docs | 📄 | [docs.joshuatz.com](https://docs.joshuatz.com/)
 LinkedIn | 💼 | [linkedin.com/in/joshuatzucker](https://www.linkedin.com/in/joshuatzucker/)
 Twitter | <img src="https://raw.githubusercontent.com/joshuatz/joshuatz/main/icons/twitter.svg" /> | [@1joshuatz](https://twitter.com/1joshuatz)
 Dev | 👨‍💻 | [dev.to/joshuatz](https://dev.to/joshuatz)
